@@ -1,0 +1,15 @@
+li {
+	list-style: none;
+}
+
+body{
+	text-align: center;
+	font-family: sans-serif;
+	line-height: 2em;
+}
+
+.deleted{
+	opacity: 0.6;
+	color: grey;
+	text-decoration: line-through;
+}
